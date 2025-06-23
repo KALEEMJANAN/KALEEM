@@ -1,0 +1,25 @@
+{
+    "bot-name": "KALEEM-MD",
+    "description": "KALEEM-MD made for people on Sri Lanka & Other Countries...✨🇱🇰🌏❤",
+    "logo": "https://github.com/KALEEMJANAN/KALEEM/blob/5947d4894a8f8d8d6678b111852e1c3b66aeffcd/FB_IMG_1739447175170.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "manumd", "byimaxz"],
+    "documentation-link": "https://manul-ofc-web-tau.vercel.app/",
+    "owner-verification":"danajxima@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with Manu-MD or get session id from VIEW DOCUMENTATION BUTTON",
+        "value":"",
+        "required": true
+        
+      },
+      "TYPE": {
+        "description": "if you need buttons put 'button' if you need nonbutton ( number reply ) put 'nonbutton' || බටන් ඕනි නම් 'button' දාන්න number reply ඕනි නම් nonbutton දාන්න...😌❤",
+        "value":"nonbutton",
+        "required": true
+        
+      }
+    }
+  
+  }
+  
